@@ -1,0 +1,188 @@
+associations:
+associatedCompanyIds:
+associatedVids:
+1:  13853851
+associatedDealIds:
+dealId: 278814127
+portalId: 3960060
+properties:
+hs_lastmodifieddate:
+sourceId: null
+timestamp:  1523348385418
+versions:
+source: CALCULATED
+name: hs_lastmodifieddate
+sourceVid:
+value:  1523348385418
+timestamp:  1523348385418
+value:  1523348385418
+source: CALCULATED
+pipeline:
+sourceId: katharina@fairr.de
+timestamp:  1523348232602
+versions:
+name: pipeline
+sourceId: katharina@fairr.de
+timestamp:  1523348232602
+value:  1e479bb3-4354-4c55-8f9b-d62bffa0b39e
+source: CRM_UI
+sourceVid:
+value:  1e479bb3-4354-4c55-8f9b-d62bffa0b39e
+source: CRM_UI
+num_associated_contacts:
+sourceId: null
+timestamp:  0
+versions:
+source: CALCULATED
+name: num_associated_contacts
+value:  1
+sourceVid:
+value:  1
+source: CALCULATED
+hs_analytics_source:
+sourceId: deal sync triggered by vid=13853851
+timestamp:  1523348247845
+versions:
+name: hs_analytics_source
+sourceId: deal sync triggered by vid=13853851
+timestamp:  1523348247845
+value:  DIRECT_TRAFFIC
+source: DEALS
+sourceVid:
+value:  DIRECT_TRAFFIC
+source: DEALS
+hs_analytics_source_data_2:
+sourceId: deal sync with no associated contacts
+timestamp:  1523348233023
+versions:
+name: hs_analytics_source_data_2
+sourceId: deal sync with no associated contacts
+timestamp:  1523348233023
+value:  
+source: CALCULATED
+sourceVid:
+value:  
+source: CALCULATED
+produkt:
+sourceId: katharina@fairr.de
+timestamp:  1523348232602
+versions:
+name: produkt
+sourceId: katharina@fairr.de
+timestamp:  1523348232602
+value:  fairriester
+source: CRM_UI
+sourceVid:
+value:  fairriester
+source: CRM_UI
+hs_analytics_source_data_1:
+sourceId: deal sync triggered by vid=13853851
+timestamp:  1523348247845
+versions:
+name: hs_analytics_source_data_1
+sourceId: deal sync triggered by vid=13853851
+timestamp:  1523348247845
+value:  https://www.fairr.de/produkte/fairriester/abschluss
+source: DEALS
+sourceVid:
+value:  https://www.fairr.de/produkte/fairriester/abschluss
+source: DEALS
+hubspot_owner_assigneddate:
+sourceId: katharina@fairr.de
+timestamp:  1523348232602
+versions:
+name: hubspot_owner_assigneddate
+sourceId: katharina@fairr.de
+timestamp:  1523348232602
+value:  1523348232602
+source: CRM_UI
+sourceVid:
+value:  1523348232602
+source: CRM_UI
+hubspot_owner_id:
+sourceId: katharina@fairr.de
+timestamp:  1523348232602
+versions:
+name: hubspot_owner_id
+sourceId: katharina@fairr.de
+timestamp:  1523348232602
+value:  30516207
+source: CRM_UI
+sourceVid:
+value:  30516207
+source: CRM_UI
+amount:
+sourceId: katharina@fairr.de
+timestamp:  1523348232602
+versions:
+name: amount
+sourceId: katharina@fairr.de
+timestamp:  1523348232602
+value:  
+source: CRM_UI
+sourceVid:
+value:  
+source: CRM_UI
+hs_createdate:
+sourceId: CRM_UI
+timestamp:  1523348232602
+versions:
+name: hs_createdate
+sourceId: CRM_UI
+timestamp:  1523348232602
+value:  1523348232602
+source: CONTACTS
+sourceVid:
+value:  1523348232602
+source: CONTACTS
+dealstage:
+sourceId: null
+timestamp:  1523348385418
+versions:
+source: API
+name: dealstage
+sourceVid:
+value:  995009c2-3894-4d1a-9186-cf096fabc17b
+timestamp:  1523348385418
+value:  995009c2-3894-4d1a-9186-cf096fabc17b
+source: API
+closedate:
+sourceId: katharina@fairr.de
+timestamp:  1523348232602
+versions:
+name: closedate
+sourceId: katharina@fairr.de
+timestamp:  1523348232602
+value:  1525076212300
+source: CRM_UI
+sourceVid:
+value:  1525076212300
+source: CRM_UI
+createdate:
+sourceId: katharina@fairr.de
+timestamp:  1523348232602
+versions:
+name: createdate
+sourceId: katharina@fairr.de
+timestamp:  1523348232602
+value:  1523348212300
+source: CRM_UI
+sourceVid:
+value:  1523348212300
+source: CRM_UI
+dealname:
+sourceId: katharina@fairr.de
+timestamp:  1523348232602
+versions:
+name: dealname
+sourceId: katharina@fairr.de
+timestamp:  1523348232602
+value:  fairriester
+source: CRM_UI
+sourceVid:
+value:  fairriester
+source: CRM_UI
+isDeleted:  false
+Fields with no value:
+imports
+stateChanges

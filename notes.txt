@@ -1,0 +1,23 @@
+notes
+
+/*  fetch()
+    .then(function(response) {
+      return response.json();
+    })
+    .then(function(json) {
+      alert(json)
+    });*/
+
+//CONCEPT
+// register session as active in background script when user hits the button and inactive once done
+// use a content script to send a message when a HS page loads regarding whether somebody is on the ticket
+// save those in the background when session is active
+// in background get the JSON for the tickets
+// then go through and start opening individual tickets from each folder in new tabs
+// each time a tab is opened, use setinterval to wait until a message has been registered for it by the content script
+// then use logic - if the ticket is unassigned, assign it to the user, and move on to opening tabs for the next ticket
+// if it's not, go on to the next ticket in the array and open a tab for that one
+
+// shifts changing priority
+// ahs complicates it a little bit
+// AHS four hours or less assignment
